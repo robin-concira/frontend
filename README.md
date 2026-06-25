@@ -1,2 +1,0 @@
-# frontend
-testing purpose only
